@@ -1,0 +1,82 @@
+1. what is SDLC?and how it runs?
+ans:-SDLC stands for Software Development Life Cycle. It is a structured process used in software engineering to design, develop, test, and maintain high-quality software. 
+    The SDLC consists of a set of phases or stages through which a software product evolves, from the initial idea to its deployment and maintenance. 
+    These phases ensure that software development is systematic, well-planned, and results in a product that meets the specified requirements.
+
+    The typical stages of SDLC are as follows:-
+
+1)Requirements :
+In this phase, project requirements are gathered from stakeholders and analyzed to determine their feasibility, understand the scope of the project, and define system goals.
+
+2)System Design:
+In this phase, the system architecture and design are created based on the requirements gathered. This includes designing the software components, databases, and user interfaces.
+
+3) Coding:
+During this phase, developers write the code based on the design specifications. The programming languages, frameworks, and tools specified in the design phase are used to create
+the software.
+
+4)Testing:
+The software is rigorously tested to identify and fix bugs, validate that it meets the specified requirements, and ensure its reliability, performance, and security.
+
+5)Integration:
+In this phase, different components or modules of the software are integrated to create a complete system.
+
+2.what is waterfall methdology?
+  ans:-The Waterfall Model is a linear and sequential software development approach that divides the software development process into discrete phases.
+    Each phase in the Waterfall Model must be completed before moving on to the next one, and the phases do not overlap. The output of one phase serves as
+    the input for the next phase. The phases in the Waterfall Model typically include:
+    Requirements Gathering and Analysis,System Design, Implementation (Coding),Testing,Deployment and Maintenance.
+
+    The Waterfall Model is straightforward and easy to understand, making it suitable for projects with well-defined and stable requirements. However, it has been criticized
+    for its lack of flexibility and adaptability, as it doesn't easily accommodate changes once a phase is completed. If significant changes are needed, it can be costly 
+    and time-consuming to go back and revisit earlier phases.
+
+    Modern software development methodologies, such as Agile, have gained popularity due to their iterative and more flexible nature, addressing some of the limitations 
+    associated with the Waterfall Model. Agile methodologies allow for ongoing feedback and adjustments throughout the development process, promoting a more adaptive 
+    and customer-centric approach.
+
+3. what is agile methdology?
+   ans:-Agile methodology is an iterative and flexible approach to software development that emphasizes collaboration, adaptability, and customer satisfaction. 
+     It's a departure from traditional, sequential development approaches like Waterfall, focusing on delivering smaller, incremental releases of a product with each iteration.
+     The Agile methodology values individuals and interactions, working software, customer collaboration, and responsiveness to change.
+
+   Here are the key principles and characteristics of Agile methodology:
+
+    1. **Iterative Development:**
+       Agile projects are divided into small, manageable increments called iterations or sprints, usually lasting 2-4 weeks. Each iteration results in a potentially shippable 
+       product increment.
+   
+    2. **Customer Involvement and Feedback:**
+         Customers and stakeholders are involved throughout the development process, providing continuous feedback on each iteration. This ensures the product aligns with 
+         customer needs and requirements.
+
+    3. **Adaptability and Flexibility:**
+         Agile teams are open to change and can adapt quickly to new requirements, priorities, or market conditions. The project's direction can be adjusted at 
+        the end of each iteration.
+
+    4. **Cross-Functional Teams:**
+      Agile teams are self-organizing and cross-functional, meaning they have all the necessary skills to complete the work within an iteration. Team members collaborate 
+        closely and share responsibilities.
+
+    5. **Continuous Improvement:**
+       Agile promotes a culture of continuous improvement through regular retrospectives. Teams reflect on their processes and outcomes, identifying ways to enhance 
+      productivity, quality, and effectiveness.
+
+    6. **Prioritization and Backlog:**
+     The project backlog contains a prioritized list of features, enhancements, and bug fixes. The team works on the highest-priority items first, ensuring the most
+       valuable elements are delivered early.
+
+    7. **Transparency and Communication:**
+     Agile emphasizes clear and open communication within the team and with stakeholders. Progress, impediments, and the product's state are visible and accessible 
+       to everyone involved.
+
+    8. **Test-Driven Development (TDD):**
+       Development is driven by writing tests before writing the code. This ensures that the code meets the requirements and helps maintain code quality.
+
+      Popular Agile frameworks and methodologies include Scrum, Kanban, Lean, Extreme Programming (XP), and more. Scrum, for instance, is widely used and defines
+      specific roles, events, and artifacts to facilitate the iterative development process within fixed time frames (sprints).
+
+      Overall, Agile methodologies aim to deliver value to customers faster and more effectively by responding quickly to changing requirements and market demands.
+
+
+
